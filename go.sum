@@ -1,7 +1,7 @@
 github.com/Dharitri-org/sme-components-big-int v0.0.1 h1:p6IJYK8Y044KOMOhijkA1ycLcKZ+JaFhx9Xwurt+7tA=
 github.com/Dharitri-org/sme-components-big-int v0.0.1/go.mod h1:HUS05rNQ2gVlk/FTJ5CezcwcyZ+teaymImV0QO405Fc=
-github.com/Dharitri-org/sme-vm-common v0.0.3 h1:zJCJcscNNQeMyQBvHpHxCAyJnyUbXHyut+XrB7pXzbA=
-github.com/Dharitri-org/sme-vm-common v0.0.3/go.mod h1:Dgpp+8uC8vxS99sw++FDvc63Yn65T32YqrWTyituNLk=
+github.com/Dharitri-org/sme-vm-common v0.0.4 h1:dUYUI8LlX6n9Z8phQhEV7OEHRxWgxQL6lQjbQ2oKJnQ=
+github.com/Dharitri-org/sme-vm-common v0.0.4/go.mod h1:Dgpp+8uC8vxS99sw++FDvc63Yn65T32YqrWTyituNLk=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

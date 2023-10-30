@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/Dharitri-org/sme-components-big-int v0.0.1
-	github.com/Dharitri-org/sme-vm-common v0.0.3
+	github.com/Dharitri-org/sme-vm-common v0.0.4
 	github.com/stretchr/testify v1.4.0
 	golang.org/x/crypto v0.0.0-20191011191535-87dc89f01550
 )
